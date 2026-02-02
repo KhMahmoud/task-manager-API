@@ -17,3 +17,7 @@ RESTful API for managing tasks with authentication.
 ```bash
 git clone https://github.com/KhMahmoud/task-manager-API.git
 cd task-manager-API
+
+Terminal test: small update
+
+Terminal test: small update
