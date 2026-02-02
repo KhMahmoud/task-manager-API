@@ -1,14 +1,19 @@
 # Task Manager API
 
-RESTful Task Manager API built with Node.js + Express (CRUD, validation, error handling).  
-Version 1 uses an in-memory array (no database yet).
+RESTful API for managing tasks with authentication.
 
-## Tech
-- Node.js
-- Express
-- Nodemon
+## Tech Stack
+- Node.js, Express
+- PostgreSQL, Prisma
+- JWT Auth
+
+## Features
+- User signup/login (JWT)
+- CRUD tasks
+- Validation + structured errors
 
 ## Setup
+### 1) Clone
 ```bash
-npm install
-npm run dev
+git clone https://github.com/KhMahmoud/task-manager-API.git
+cd task-manager-API
