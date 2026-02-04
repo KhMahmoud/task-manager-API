@@ -13,11 +13,9 @@ RESTful API for managing tasks with authentication.
 - Validation + structured errors
 
 ## Setup
+
 ### 1) Clone
+
 ```bash
-git clone https://github.com/KhMahmoud/task-manager-API.git
+git clone git@github.com:KhMahmoud/task-manager-API.git
 cd task-manager-API
-
-Terminal test: small update
-
-Terminal test: small update
